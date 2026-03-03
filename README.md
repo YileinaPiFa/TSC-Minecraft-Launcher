@@ -1,2 +1,2 @@
-# TSC-Minecraft-Launcher
+# TSCMinecraftLauncher
 TSC我的世界启动器
