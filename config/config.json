@@ -1,0 +1,9 @@
+{
+  "Language": "",
+  "MaxMemory": 4096,
+  "AutoMemory": true,
+  "WindowResizable": false,
+  "Theme": "Light",
+  "JvmArgs": "",
+  "GameArgs": ""
+}
